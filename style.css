@@ -4,21 +4,28 @@ body {
     background: #777;
     width: 960px;
     font-size: 18px;
+    text-align: center;
+    padding: 20px;
 }
 header {
-    background: #ebebeb
+    background: #ebebeb;
+    padding: 10px;
 }
 nav {
     color: #ebebeb;
-    background: #777
+    background: orange;
+    text-align: left;
+    padding: 2px;
 }
 article {
     color: #ebebeb;
-    background: #777
+    background: maroon;
+    padding: 20px;
+
 }
 h1 p {
     color: #777;
-    background: #ebebeb
+    background: #ebebeb;
 }
 section {
     width: 495px;
@@ -27,6 +34,14 @@ aside {
     color: maroon;
     background: white;
     float: right;
-    width: 250px
+    width: 450px
     
+}
+h1 {
+    text-align: center;
+}
+footer {
+    color: black;
+    background: orange;
+    padding: 20px;
 }
