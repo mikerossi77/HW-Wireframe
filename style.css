@@ -6,16 +6,17 @@ body {
     font-size: 18px;
     text-align: center;
     padding: 20px;
+    margin: auto;
 }
 header {
     background: #ebebeb;
     padding: 10px;
 }
 nav {
-    color: #ebebeb;
+    color: black;
     background: orange;
     text-align: left;
-    padding: 2px;
+    padding: 5px;
 }
 article {
     color: #ebebeb;
@@ -28,20 +29,24 @@ h1 p {
     background: #ebebeb;
 }
 section {
-    width: 495px;
+    width: 595px;
 }
 aside {
-    color: maroon;
-    background: white;
+    color: white;
+    background: blue;
     float: right;
-    width: 450px
+    width: 350px
     
 }
 h1 {
     text-align: center;
+    color: maroon;
+    font-style: italic;
+
 }
 footer {
     color: black;
     background: orange;
     padding: 20px;
 }
+#as {padding: 20px}
