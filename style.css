@@ -22,14 +22,17 @@ nav {
     color: #ebebeb;
     background: maroon;
     float: left;
-    width: 70%;
+    width: 68%;
+    height: 1000px;
+    overflow: scroll
 }
 #side {
     color: white;
     background: blue;
-    float: left;
+    float: right;
     /*min-width: 350px;*/
     width: 30%; 
+    height: 1000px;
 }
 footer {
     color: black;
